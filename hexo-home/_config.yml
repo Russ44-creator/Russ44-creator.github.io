@@ -2,23 +2,22 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
-
-
 # Site
-title: 技术小白
-subtitle: '技术小白的技术博客'
+title: Russ's Page
+subtitle: 'My Daily Gains and Your Ticket to Intriguing Insights'
 keywords:
   - Java
   - Node.js
   - Flink
-description: '每天进步一点点!'
-author: xiao-bai
-language: zh-CN
+description: 'Why Not?'
+author: Russ-Deng
+language: en-US
 timezone: Asia/Shanghai
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://xiao-bai.github.io/
+# url: https://xiao-bai.github.io/
+url: https://russ44-creator.github.io/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -120,14 +119,16 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:xiao-bai/xiao-bai.github.io.git
-  branch: master
+  repo: git@github.com:Russ44-creator/Russ44-creator.github.io.git
+  branch: main
 
 search:
   path: search.json
   field: post
   content: true
-  format: striptags
+  format: striptags 
+
+
 
 symbols_count_time:
   symbols: true

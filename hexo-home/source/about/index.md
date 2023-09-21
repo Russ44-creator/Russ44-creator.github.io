@@ -1,8 +1,8 @@
 ---
 title: 关于
-date: 2022-01-01 00:00:00
-type: "user"
-comments: false
+target_file: 81d9f505441078e06980e0bd02616e94.md
+origin_file: hexo-home/source/about/index.md
+date: "2022-01-01 00:00:00"
 ---
 
 ## 个人介绍

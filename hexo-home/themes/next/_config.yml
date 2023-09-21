@@ -177,10 +177,8 @@ site_state: true
 # Key is the link label showing to end users.
 # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
 social:
-  GitHub: https://github.com/anthony-dong || fab fa-github
-  E-Mail: mailto:fanhaodong516@gmail.com || fa fa-envelope
-  掘金: https://juejin.cn/user/4248168663101320 || fas fa-book
-  国内邮箱: mailto:fanhaodong516@163.com || fa fa-envelope
+  GitHub: https://github.com/Russ44-creator || fab fa-github
+  E-Mail: mailto:russ1254016017@gmail.com || fa fa-envelope
   #GitHub: https://github.com/yourname || fab fa-github
   #E-Mail: mailto:yourname@gmail.com || fa fa-envelope
   #Weibo: https://weibo.com/yourname || fab fa-weibo
@@ -189,7 +187,7 @@ social:
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
-  #Instagram: https://instagram.com/yourname || fab fa-instagram
+  Instagram: https://instagram.com/russ_44deng || fab fa-instagram
   #Skype: skype:yourname?call|chat || fab fa-skype
 
 social_icons:
@@ -268,11 +266,11 @@ reward_settings:
   # If true, reward will be displayed in every article by default.
   enable: true
   animation: false
-  comment: 本人坚持原创技术分享，如果你觉得文章对您有用，请随意打赏! 如果有需要咨询的请发送到我的邮箱!
+  comment: Technology changes the world.
 
 reward:
-  wechatpay: /images/wechatpay.png
-  alipay: /images/alipay.png
+  # wechatpay: /images/wechatpay.png
+  # alipay: /images/alipay.png
   #paypal: /images/paypal.png
   #bitcoin: /images/bitcoin.png
 
@@ -395,7 +393,7 @@ bookmark:
 # `Follow me on GitHub` banner in the top-right corner.
 github_banner:
   enable: true
-  permalink: https://github.com/Anthony-Dong
+  permalink: https://github.com/Russ44-creator
   title: Follow me on GitHub
 
 
