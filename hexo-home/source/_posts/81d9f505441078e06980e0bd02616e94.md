@@ -1,23 +1,18 @@
 ---
-title: 关于
+title: About Me
 target_file: 81d9f505441078e06980e0bd02616e94.md
 origin_file: hexo-home/source/about/index.md
 date: "2022-01-01 00:00:00"
 ---
 
-## 个人介绍
-- 老家：山西省-晋城市
-- 大学：[2016年-2020年] 太原理工大学-经济管理学院-物流管理专业
-- 兴趣：xxxxx
-- 职业：xxxxx
-- 现居：北京-朝阳-望京
-- 项目：xxxxx
+## Self-Introduction
+- Education: Brown University
 
-    写博客只是在记录自己每日的收获，分享出来也是对于自己平时记录的一个总结！
+ 
 
-## 个人工作经历
-- 2020-04 - 2021-06 xxxxx
-- 2021-06 - 至今 xxxxx
+## Work Experience
+- 2022-07 - 2022-12 SAP
 
-## 个人工作总结
-- 1、自己对自己负责，自驱！
+
+<!-- ## 个人工作总结 -->
+<!-- - 1、自己对自己负责，自驱！ -->
