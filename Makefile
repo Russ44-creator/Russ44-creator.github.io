@@ -29,7 +29,7 @@ push: info ## push项目到远程
 	git status
 	git add .
 	git commit -m "提交与 $(shell date +"%Y-%m-%d %H:%M:%S")"
-	git push origin master
+	git push origin main
 
 info: ## 项目信息
 	@echo "=====================查看当前目录大小====================================="
