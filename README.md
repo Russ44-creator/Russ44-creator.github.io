@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 > 这个文章更新可能不及时，可以直接看: https://anthony-dong.github.io/2022/03/17/093375c998745d381f00dcaac184ef81/ 这里!!
 
 ## 主要介绍
@@ -218,3 +219,8 @@ Upload:
 #### 3. 修改个人主页
 
 修改本地文件`hexo-home/source/about/index.md`  即可
+=======
+# Russ44-creator.github.io
+Russ Deng's Personal Website.
+My Daily Gains and Your Ticket to Intriguing Insights~
+>>>>>>> 10839008d1575dde3123d0e1b570587b9bd0a170
