@@ -1,7 +1,7 @@
 ---
 title: Some understanding of CTF
-target_file: txt.md
-origin_file: hexo-home/source/_posts/txt.md
+target_file: ctf.md
+origin_file: hexo-home/source/_posts/ctf.md
 date: "2023-10-31 23:14:06"
 tags:
 - Insights
